@@ -12,3 +12,7 @@
 /Users/lukas/Documents/Projekte/c-sharp-playground/obj/Debug/net9.0/c-sharp-playground.pdb
 /Users/lukas/Documents/Projekte/c-sharp-playground/obj/Debug/net9.0/c-sharp-playground.genruntimeconfig.cache
 /Users/lukas/Documents/Projekte/c-sharp-playground/obj/Debug/net9.0/ref/c-sharp-playground.dll
+/Users/lukas/Documents/Projekte/c-sharp-playground/obj/Debug/net9.0/c-sharp-playground.sourcelink.json
+/Users/lukas/Documents/Projekte/c-sharp-playground/obj/Debug/net9.0/c-sharp-playground.csproj.AssemblyReference.cache
+/Users/lukas/Documents/Projekte/c-sharp-playground/bin/Debug/net9.0/Colorful.Console.dll
+/Users/lukas/Documents/Projekte/c-sharp-playground/obj/Debug/net9.0/c-sharp-.298561E4.Up2Date

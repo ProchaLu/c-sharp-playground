@@ -6,6 +6,7 @@ public class RandomColorGenerator
 {
   public static void RandomColor()
   {
-
+    var random = new Random();
+    var colors = (ConsoleColor[])Enum.GetValues(typeof(ConsoleColor));
   }
 }
