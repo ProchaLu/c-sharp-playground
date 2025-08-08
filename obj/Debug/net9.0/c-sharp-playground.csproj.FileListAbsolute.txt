@@ -1,0 +1,14 @@
+/Users/lukas/Documents/Projekte/c-sharp-playground/bin/Debug/net9.0/c-sharp-playground
+/Users/lukas/Documents/Projekte/c-sharp-playground/bin/Debug/net9.0/c-sharp-playground.deps.json
+/Users/lukas/Documents/Projekte/c-sharp-playground/bin/Debug/net9.0/c-sharp-playground.runtimeconfig.json
+/Users/lukas/Documents/Projekte/c-sharp-playground/bin/Debug/net9.0/c-sharp-playground.dll
+/Users/lukas/Documents/Projekte/c-sharp-playground/bin/Debug/net9.0/c-sharp-playground.pdb
+/Users/lukas/Documents/Projekte/c-sharp-playground/obj/Debug/net9.0/c-sharp-playground.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Documents/Projekte/c-sharp-playground/obj/Debug/net9.0/c-sharp-playground.AssemblyInfoInputs.cache
+/Users/lukas/Documents/Projekte/c-sharp-playground/obj/Debug/net9.0/c-sharp-playground.AssemblyInfo.cs
+/Users/lukas/Documents/Projekte/c-sharp-playground/obj/Debug/net9.0/c-sharp-playground.csproj.CoreCompileInputs.cache
+/Users/lukas/Documents/Projekte/c-sharp-playground/obj/Debug/net9.0/c-sharp-playground.dll
+/Users/lukas/Documents/Projekte/c-sharp-playground/obj/Debug/net9.0/refint/c-sharp-playground.dll
+/Users/lukas/Documents/Projekte/c-sharp-playground/obj/Debug/net9.0/c-sharp-playground.pdb
+/Users/lukas/Documents/Projekte/c-sharp-playground/obj/Debug/net9.0/c-sharp-playground.genruntimeconfig.cache
+/Users/lukas/Documents/Projekte/c-sharp-playground/obj/Debug/net9.0/ref/c-sharp-playground.dll
