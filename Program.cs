@@ -43,6 +43,9 @@
       // Change String to different Number types
       StringToNumber.ConvertStringToNumber();
 
+      // Format numbers
+      FormatNumbers.FormatNumbersExample();
+
       // Call the RandomColor method from RandomColorGenerator
       RandomColorGenerator.RandomColor();
 
