@@ -8,6 +8,8 @@ namespace MyApp
     {
       int age = 38;
       string name = "Lukas";
+      // Single quotes are used for single characters
+      char letter = 'L';
       bool isActive = true;
 
       int x = 10, y = 20, z = 30;
@@ -18,6 +20,7 @@ namespace MyApp
       Console.WriteLine($"Average of x, y, z: {(x + y + z) / 3.0}");
       Console.WriteLine("Hello World!");
       Console.WriteLine($"My name is {name} and I am {age} years old.");
+      Console.WriteLine($"The first letter of my name is {letter}.");
       if (isActive)
       {
         Console.WriteLine("I am currently active.");
@@ -29,6 +32,29 @@ namespace MyApp
       // assign new age
       age = 39;
       Console.WriteLine($"My updated age is {age}.");
+      // Change String to Number
+      string numberString = "42";
+      int stringToNumber = Convert.ToInt32(numberString);
+      Console.WriteLine($"Converted string '{numberString}' to number: {stringToNumber}");
+      // Change to different Number types
+      string textToBigNumber = "12345678901234567890";
+      long bigNumber = Convert.ToInt64(textToBigNumber);
+      Console.WriteLine($"Converted Number {bigNumber}");
+
+      string textToNegativeNumber = "-12345";
+      double negativeNumber = Convert.ToDouble(textToNegativeNumber);
+      Console.WriteLine($"Converted negative number: {negativeNumber}");
+
+      string textToPrecisionNumber = "3.14159";
+      float precisionNumber = Convert.ToSingle(textToPrecisionNumber);
+      Console.WriteLine($"Converted precision number: {precisionNumber}");
+
+      string textToMoney = "19.99";
+      decimal money = Convert.ToDecimal(textToMoney);
+      Console.WriteLine($"Converted money value: {money}");
+
+      // Call the RandomColor method from RandomColorGenerator
+      RandomColorGenerator.RandomColor();
       Console.ReadLine();
     }
   }

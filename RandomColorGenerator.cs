@@ -8,5 +8,6 @@ public class RandomColorGenerator
   {
     var random = new Random();
     var colors = (ConsoleColor[])Enum.GetValues(typeof(ConsoleColor));
+    Console.WriteLine("Random Color: " + colors[random.Next(colors.Length)]);
   }
 }
