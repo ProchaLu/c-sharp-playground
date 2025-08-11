@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace MyApp
+﻿namespace MyApp
 {
   internal class Program
   {
@@ -32,29 +30,24 @@ namespace MyApp
       // assign new age
       age = 39;
       Console.WriteLine($"My updated age is {age}.");
-      // Change String to Number
-      string numberString = "42";
-      int stringToNumber = Convert.ToInt32(numberString);
-      Console.WriteLine($"Converted string '{numberString}' to number: {stringToNumber}");
-      // Change to different Number types
-      string textToBigNumber = "12345678901234567890";
-      long bigNumber = Convert.ToInt64(textToBigNumber);
-      Console.WriteLine($"Converted Number {bigNumber}");
 
-      string textToNegativeNumber = "-12345";
-      double negativeNumber = Convert.ToDouble(textToNegativeNumber);
-      Console.WriteLine($"Converted negative number: {negativeNumber}");
+      age++;
 
-      string textToPrecisionNumber = "3.14159";
-      float precisionNumber = Convert.ToSingle(textToPrecisionNumber);
-      Console.WriteLine($"Converted precision number: {precisionNumber}");
+      Console.WriteLine($"My age after incrementing is {age}.");
 
-      string textToMoney = "19.99";
-      decimal money = Convert.ToDecimal(textToMoney);
-      Console.WriteLine($"Converted money value: {money}");
+      // Combine Strings
+      string greeting = "Hello";
+      greeting += " World!";
+      Console.WriteLine($"Combined String: {greeting}");
+
+      // Change String to different Number types
+      StringToNumber.ConvertStringToNumber();
 
       // Call the RandomColor method from RandomColorGenerator
       RandomColorGenerator.RandomColor();
+
+      // Call the DisplayDayOfWeek method from DaysOfTheWeekWithSwitchCases
+      DaysOfTheWeekWithSwitchCases.DisplayDayOfWeek();
       Console.ReadLine();
     }
   }

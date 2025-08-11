@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("c-sharp-playground")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2758fd2c454c613da40767a5914f0d9bd10fb67")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f39d108fb7d40d9d312a937c4a0b81df84dc1531")]
 [assembly: System.Reflection.AssemblyProductAttribute("c-sharp-playground")]
 [assembly: System.Reflection.AssemblyTitleAttribute("c-sharp-playground")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
