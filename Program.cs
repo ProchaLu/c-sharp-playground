@@ -51,6 +51,9 @@
 
       // Call the DisplayDayOfWeek method from DaysOfTheWeekWithSwitchCases
       DaysOfTheWeekWithSwitchCases.DisplayDayOfWeek();
+
+      // Times Table
+      TimesTable.DisplayTimesTable();
       Console.ReadLine();
     }
   }
